@@ -1,1 +1,1 @@
-web: gunicorn winning-lottery.wsgi
+web: sh setup.sh && streamlit run module1.py
