@@ -22,4 +22,4 @@
 | --- | --- |
 | Professional Email | dungvn1999@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/dungtran99/ |
-| Project Link | [https://github.com/jtran2509/lottery_mobile_app/blob/master/module1.py](https://github.com/jtran2509/lottery_mobile_app/blob/master/module1.py) |
+| Project Link | [Winning Lottery](https://winning-lottery.herokuapp.com/) |
